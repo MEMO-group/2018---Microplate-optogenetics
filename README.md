@@ -1,2 +1,3 @@
-# 2018---Microplate-optogenetics
+# Microplate illuminator
 ![Composite picture](./model_and_prototype_lit.jpg?raw=true)
+CAD model and 3D-printed prototype of the microplate illuminator. The assembled circuit board is affixed to the printed housing using mouldable glue or screws,and programmed via the serial interface header and the Arduino software.  During operation a microplate is placed on top of the device, which is then incubated on a microplate shaker; the microplate should have opaque wals and a transparant lid, the incubator should be placed in a darkened room without reflective surfaces or covered with e.g. a styrofoam cooler lined with black felt.
